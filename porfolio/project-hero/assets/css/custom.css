@@ -1,0 +1,65 @@
+/* Add custom style here  */
+
+
+#hero-1 header.theme-dark {background-color: var(--blue-700);}
+
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):visited { background-color: var(--green-400) }
+
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):visited { border-color: var(--green-400) }
+
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(2):visited { background-color: var(--green-400) }
+
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(2):visited { border-color: var(--green-400) }
+
+#hero-2 header.hero-block h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: calc(60px + (120 - 60) * ((100vw - 320px)/ (1600 - 320))); 
+}
+
+#hero-3 {
+  margin-top: 80px; 
+}
+
+#hero-3 h1 {
+  font-family: 'Abril Fatface', serif;
+  letter-spacing: 2px;
+  font-size: calc(60px + (120 - 60) * ((100vw - 320px)/ (1600 - 320))); 
+}
+
+#hero-4 {margin-top: 80px;}
+
+#hero-4 header.theme-light { background-color: var(--trend-100) }
+
+#hero-4 header h1 {
+  font-family: 'Prata', serif;
+     font-weight: 400;
+     letter-spacing: -4px;
+     line-height: 1.2
+  }
+  
+  #hero-4 .hero-block.bg-img-left .hero-text-container h2 {
+     font-size: calc(28px + (32 - 28) * ((100vw - 320px)/ (1600 - 320)));
+     color: var(--gray-700);
+  }   
+
+  #hero-6 {margin-top: 80px;}
+#hero-6   .theme-light .badge { background-color: var(--purple-700) }
+#hero-6 .theme-light .container-btn a.btn:nth-child(1):link,
+#hero-6 .theme-light .container-btn a.btn:nth-child(1):visited { background-color: var(--pink-600) }
+
+#hero-6 .theme-light .container-btn a.btn:nth-child(1):link,
+#hero-6 .theme-light .container-btn a.btn:nth-child(1):visited { border-color: var(--pink-600) }
+#hero-6 
+#hero-6 .theme-light .container-btn a.btn:nth-child(2):link,
+#hero-6 .theme-light .container-btn a.btn:nth-child(2):visited { border-color: var(--pink-600) }
+
+#hero-6 .theme-light .container-btn a.btn:nth-child(2):link,
+#hero-6 .theme-light .container-btn a.btn:nth-child(2):visited { color: var(--pink-600) }
+
+#hero-6 .theme-light { background-color: var(--trend-200) }
