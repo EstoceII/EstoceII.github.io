@@ -3,3 +3,5 @@
 body{
   font-family: 'Crimson Text', serif;
 }
+
+header.theme-dark { background-color: var(--trend-800) }

@@ -110,4 +110,6 @@ nav.theme-light a#btn-cta:visited { background-color: var(--black-000) }
 nav.theme-light a#btn-cta:link,
 nav.theme-light a#btn-cta:visited { border-color: var(--black-000) }
 
-
+body{
+  font-family: 'Crimson Text', serif;
+}
